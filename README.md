@@ -25,4 +25,7 @@ Covid 19 worldwide data : testdata/COVID-19-geographic-disbtribution-worldwide-2
 ```
 
 
+![Horrible Correlation Plot](/testdata/Correlation_between_infection_delta_and_temp_and_humidity_delta.pdf)
+
+
 
